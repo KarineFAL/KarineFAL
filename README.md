@@ -8,6 +8,17 @@ Tenho conhecimento em linguagens como JavaScript, HTML, CSS e estou me aprofunda
 
 Além da tecnologia, estou focada em desenvolver minhas habilidades em inglês e planejando minha carreira internacional, com interesse em oportunidades no Canadá, Irlanda ou Portugal.
 
+🚀 Em busca de:
+
+Oportunidades como desenvolvedora júnior ou trainee
+
+Projetos open-source para colaborar e crescer profissionalmente
+
+Networking com pessoas da área de tecnologia e recrutadores
+
+📫 Vamos nos conectar?
+Fique à vontade para me chamar no LinkedIn ou acompanhar meus projetos aqui no GitHub!
+
 <p align="left">
     <a href="https://github.com/KarineFAL?tab=repositories&sort=stargazers">
         <img 
